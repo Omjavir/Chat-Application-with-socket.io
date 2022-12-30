@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+  .midNav {
+    display: none;
+  }
+
+  #Imae{
+    display: none;
+  }
+
+}
